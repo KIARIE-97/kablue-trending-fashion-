@@ -1,0 +1,30 @@
+.title{
+    font-family: Comic Sans MS;
+    font-size: 30px;
+    margin-top: 5rem;
+    margin-bottom: 2rem;
+    text-align: center;
+
+}
+.intro{
+    display:flex;
+    align-items: center;
+    /* background-image: url('../assets/images/thunder pink j4.jpg') ; */
+    opacity: 0.9;
+    z-index: -1;
+}
+.introMessage{
+    height: 100%;
+    
+    font-family: Comic Sans MS;
+    font-size: 20px;
+    margin-top: 2rem;
+    margin-bottom: 2rem;
+    text-align: center;
+    /* word-spacing: 0.2cm; */
+   
+}
+.homeImg{
+height: 100%;
+margin-bottom: 20px;
+}

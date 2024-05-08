@@ -1,0 +1,22 @@
+.footer_page{
+    background-color: aqua;
+    display: flex;
+    justify-content: space-around;
+    align-items: center;
+    font-family: Comic Sans MS;
+    /* position: fixed; */
+}
+
+.image{
+    width: 250px;
+    height: 100%;
+}
+.icons{
+    height: 20px;
+    width: 20px;
+    padding: 10px;
+}
+.icons_{
+    height: 20px;
+    width: 20px;
+}

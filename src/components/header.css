@@ -1,0 +1,35 @@
+.header{
+    background-color: rgb(24, 238, 238);
+   /* justify-content: start; */
+    display: grid;
+    grid-template-columns: 1fr 1fr 1fr;
+    padding: 10px;
+    margin: 0;
+    height: 40px;
+    
+}
+.phone{
+    justify-self: end;
+}
+
+.logo{
+   
+    width: 100px;
+    height: 60px;
+    justify-self:center ;
+    margin-bottom: 20px; 
+    margin-top: 0px;
+    /* 
+    display: block;
+   
+    */
+}
+.logo-name{
+    width: 250px;
+    height: 200px;
+    margin: 0 auto;
+    display: block;
+    margin-top: 20px;
+    margin-bottom: 20px;
+    justify-self: center;
+}
